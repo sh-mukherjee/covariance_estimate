@@ -2,6 +2,6 @@ numpy
 plotly
 yfinance
 pandas
-sklearn
+scikit-learn
 datetime
 streamlit
