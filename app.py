@@ -73,7 +73,9 @@ st.markdown("""
     * **EWMA Covariance:** Particularly useful in finance as it assigns more weight to recent returns, making it more responsive to current market conditions and volatility clusters. The `lambda` parameter controls the decay speed.
 """)
 
-#st.markdown("---")
+st.markdown("""
+Visit the [GitHub Repository](https://github.com/sh-mukherjee/covariance_estimate)
+""")
 
 # --- Sidebar for User Inputs ---
 st.sidebar.header("Data & Estimation Parameters")
